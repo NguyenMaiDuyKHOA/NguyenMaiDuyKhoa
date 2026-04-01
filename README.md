@@ -129,6 +129,13 @@ I am a Full-stack Developer passionate about building modern web applications an
 <img src="https://github.com/jmhobbs/cultofthepartyparrot.com/blob/main/parrots/hd/opensourceparrot.gif" width="40" height="40"/>
 <img src="https://github.com/jmhobbs/cultofthepartyparrot.com/blob/main/parrots/hd/opensourceparrot.gif" width="40" height="40"/>
 <img src="https://github.com/jmhobbs/cultofthepartyparrot.com/blob/main/parrots/hd/opensourceparrot.gif" width="40" height="40"/>
+<img src="https://github.com/jmhobbs/cultofthepartyparrot.com/blob/main/parrots/hd/opensourceparrot.gif" width="40" height="40"/>
+<img src="https://github.com/jmhobbs/cultofthepartyparrot.com/blob/main/parrots/hd/opensourceparrot.gif" width="40" height="40"/>
+<img src="https://github.com/jmhobbs/cultofthepartyparrot.com/blob/main/parrots/hd/opensourceparrot.gif" width="40" height="40"/>
+<img src="https://github.com/jmhobbs/cultofthepartyparrot.com/blob/main/parrots/hd/opensourceparrot.gif" width="40" height="40"/>
+<img src="https://github.com/jmhobbs/cultofthepartyparrot.com/blob/main/parrots/hd/opensourceparrot.gif" width="40" height="40"/>
+<img src="https://github.com/jmhobbs/cultofthepartyparrot.com/blob/main/parrots/hd/opensourceparrot.gif" width="40" height="40"/>
+<img src="https://github.com/jmhobbs/cultofthepartyparrot.com/blob/main/parrots/hd/opensourceparrot.gif" width="40" height="40"/>
 <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="40" height="40"/>
 
 </div>
