@@ -35,7 +35,7 @@ I am a Full-stack Developer passionate about building modern web applications an
 
 ### Database & Tools
 ![MongoDB](https://img.shields.io/badge/MongoDB-100%25-47A248?style=for-the-badge&logo=mongodb)
-![SQLServer](https://img.shields.io/badge/SQL_Server-90%25-47A248?style=for-the-badge&logo=microsoftsqlserver)
+![SQLServer](https://img.shields.io/badge/SQL_Server-90%25-CC2927?style=for-the-badge&logo=sqlserver)
 ![Git](https://img.shields.io/badge/Git-80%25-F05032?style=for-the-badge&logo=git)
 
 ---
