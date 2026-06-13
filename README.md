@@ -17,7 +17,7 @@ I am a Full-stack Developer passionate about building modern web applications an
 
 | 💻 **Focused on** | ⚙️ **Strong interest in** | 🚀 **Goal** | 📚 **Currently learning** |
 |-------------------|-----------------|---------------------|---------------------|
-| MERN Stack & Web Development  | Backend systems & API development | Becoming a professional full-stack developer | System design, clean architecture, and DevOps basics |
+| MERN Stack & Web Development. Develop backend with .Net  | Backend systems & API development | Becoming a professional full-stack developer | System design, clean architecture, and DevOps basics |
 
 ---
 
