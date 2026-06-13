@@ -32,10 +32,12 @@ I am a Full-stack Developer passionate about building modern web applications an
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-100%25-339933?style=for-the-badge&logo=nodedotjs)
 ![Express](https://img.shields.io/badge/Express-95%25-41D1FF?style=for-the-badge&logo=Express)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-100%25-339933?style=for-the-badge&logo=aspdotnet)
 
 ### Database & Tools
 ![MongoDB](https://img.shields.io/badge/MongoDB-100%25-47A248?style=for-the-badge&logo=mongodb)
 ![SQLServer](https://img.shields.io/badge/SQL_Server-90%25-CC2927?style=for-the-badge&logo=sqlserver)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-90%25-CC2927?style=for-the-badge&logo=postgresql)
 ![Git](https://img.shields.io/badge/Git-80%25-F05032?style=for-the-badge&logo=git)
 
 ---
@@ -44,19 +46,23 @@ I am a Full-stack Developer passionate about building modern web applications an
 
 ### 🎨 Frontend Development
 - **ReactJS** ⭐⭐⭐⭐⭐
-- **JavaScript (ES6+)** ⭐⭐⭐⭐☆  
+- **JavaScript (ES6+)** ⭐⭐⭐⭐⭐
+- **ReactJS** ⭐⭐⭐⭐⭐
+- **TypeScript** ⭐⭐⭐⭐☆
 - **Tailwind CSS** ⭐⭐⭐⭐⭐
 - **Vite.js** ⭐⭐⭐⭐☆
 
 ### ⚙️ Backend Development  
 - **Node.js** ⭐⭐⭐⭐⭐
 - **Express.js** ⭐⭐⭐⭐⭐
+- **ASP.NET** ⭐⭐⭐⭐☆
 - **CodeIgniter** ⭐⭐⭐☆☆
 
 ### 🗄 Database & Architecture
 - **MongoDB** ⭐⭐⭐⭐⭐
+- **PostgreSQL** ⭐⭐⭐⭐☆
+- **MySQL** ⭐⭐⭐☆☆
 - **Clean Architecture** ⭐⭐⭐⭐☆
-- **MySQL** ⭐⭐⭐⭐☆
 - **MVC, CQRS** ⭐⭐⭐⭐☆
 
 ---
