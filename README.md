@@ -24,21 +24,21 @@ I am a Full-stack Developer passionate about building modern web applications an
 ## 🛠 Tech Galaxy
 
 ### Frontend
-![React](https://img.shields.io/badge/React-100%25-61DAFB?style=for-the-badge&logo=react)
-![JavaScript](https://img.shields.io/badge/JavaScript-90%25-F7DF1E?style=for-the-badge&logo=javascript)
-![Tailwind](https://img.shields.io/badge/Tailwind-80%25-06B6D4?style=for-the-badge&logo=tailwindcss)
-![Vite](https://img.shields.io/badge/Vite-80%25-8A2BE2?style=for-the-badge&logo=Vite)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss)
+![Vite](https://img.shields.io/badge/Vite-8A2BE2?style=for-the-badge&logo=Vite)
 
 ### Backend
-![Node.js](https://img.shields.io/badge/Node.js-100%25-339933?style=for-the-badge&logo=nodedotjs)
-![Express](https://img.shields.io/badge/Express-95%25-41D1FF?style=for-the-badge&logo=Express)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-100%25-339933?style=for-the-badge&logo=aspdotnet)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
+![Express](https://img.shields.io/badge/Express-41D1FF?style=for-the-badge&logo=Express)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ### Database & Tools
-![MongoDB](https://img.shields.io/badge/MongoDB-100%25-47A248?style=for-the-badge&logo=mongodb)
-![SQLServer](https://img.shields.io/badge/SQL_Server-90%25-CC2927?style=for-the-badge&logo=sqlserver)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-90%25-CC2927?style=for-the-badge&logo=postgresql)
-![Git](https://img.shields.io/badge/Git-80%25-F05032?style=for-the-badge&logo=git)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![SQLServer](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=sqlserver)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4382DF?style=for-the-badge&logo=postgresql)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 
 ---
 
